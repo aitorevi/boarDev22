@@ -13,7 +13,7 @@ export default function Timeline({ userName }) {
       <style jsx>{`
         h1 {
           font-size: 36px;
-          color: red;
+          color: blue;
         }
       `}</style>
     </>
