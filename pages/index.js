@@ -10,14 +10,15 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>devter 🐦</title>
+        <title>devter</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <AppLayout>
         <h1>
-          <a href="https://nextjs.org">devter</a>
+          <a href="https://nextjs.org">boarDev</a>
         </h1>
+        <p>Probando a deployar la web en vercel</p>
         <nav>
           <Link href='/timeline'>
             <a>
