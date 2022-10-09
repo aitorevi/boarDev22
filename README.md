@@ -1,4 +1,4 @@
-# Clon de Twitter usando NextJS por @midudev
+# Clon de Twitter usando NextJS por @aitorevi
 
 ## Empezar a desarrollar
 
@@ -11,5 +11,3 @@ yarn dev
 ```
 
 Abre [http://localhost:3000](http://localhost:3000) y en tu navegador verás el resultado.
-
-**[👨‍🏫 Todas las clases disponibles en la rama principal.](https://github.com/midudev/curso-nextjs-twitter-clone/blob/master/README.md)**
